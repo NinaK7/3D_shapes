@@ -1,4 +1,4 @@
-The present CNN was develloped during a Machine Learning project within the framework of the DU ITI "Mathematics and applications : research and intercation" of the IRMIA++ institute.
+The present CNN was developed during a Machine Learning project within the framework of the DU ITI "Mathematics and applications : research and intercation" of the IRMIA++ institute.
 
 The data of synthetic elliptical galaxies was provided by our supervisor as well as the HST data.
 
